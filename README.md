@@ -4,12 +4,12 @@ Ce format n’est **pas une obligation**, mais il offre les **avantages** suivan
 - *Open-source et gratuit*
 - *Simple à écrire* : quelques caractères suffisent pour mettre en forme le texte.
 - *Lisible en texte brut* : le contenu reste compréhensible sans logiciel spécialisé.
-- *Polyvalent* : pratique pour
+- *Polyvalent* : PAS DU TOUT pratique pour
 - les notes,
 - les articles,
 - les rapports et
 - la documentation.
-- aaaaaaccccc
+- aaaaaabbbbccccc
 - *Compatible* avec de nombreux éditeurs de texte et utilisable sur différentes plateformes.
 - - *Facile à convertir* : peut être exporté en HTML, PDF, Word et d’autres formats.
 Petit mémo [ici](https://www.markdownlang.com/fr/cheatsheet/)
